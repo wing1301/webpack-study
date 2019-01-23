@@ -1,0 +1,17 @@
+ul li {
+    list-style: none;
+}
+
+.img1 {
+    width: 60px;
+    height: 60px;
+    background: url('../images/img1/2019.jpeg');
+    background-size: contain;
+}
+
+.img2 {
+    width: 100px;
+    height: 100px;
+    background: url('../images/img2/2019.jpeg');
+    background-size: cover;
+}
